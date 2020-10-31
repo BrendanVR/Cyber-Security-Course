@@ -7,9 +7,9 @@ The files in this repository were used to configure the network depicted below.
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible file may be used to install only certain pieces of it, such as Filebeat.
 
 All playbooks involved are in the repository under Ansible. Playbooks are for 
-Installing docker
-Installing Elk
-Installing Filebeat
+1. Installing docker
+2. Installing Elk
+4. Installing Filebeat
 
 This document contains the following details:
 - Description of the Topology
